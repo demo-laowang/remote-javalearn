@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--
+version:版本号
+encoding: 文档编码
+students: 根标签 根元素
+student:  子标签 子元素
+name、age、sex、score：student子标签的子标签
+id="1" 属性
+ -->
+<students>
+    <student id="1">
+        <name>丽丽</name>
+        <age>19</age>
+        <sex>女</sex>
+        <score>89.6</score>
+    </student>
+    <student id="2">
+        <name>露露</name>
+        <age>21</age>
+        <sex>女</sex>
+        <score>73.6</score>
+    </student>
+    <student id="3">
+        <name>小明</name>
+        <age>17</age>
+        <sex>男</sex>
+        <score>72.9</score>
+    </student>
+</students>
